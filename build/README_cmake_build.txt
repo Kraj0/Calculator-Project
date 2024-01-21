@@ -1,1 +1,1 @@
-Use cmake to build project to this directory
+Use cmake to build project in this directory
