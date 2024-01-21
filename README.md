@@ -5,7 +5,7 @@ You can run Gtests without using cmake, by opening .sln file from main directior
 left bar Conversions_Gtest - Debug - Start New Instance.
 
 If u have installed Cmake (min version 3.6.2) on your computer you can also
-build project using this tool. CMakeLists.txt is in the main directory. I suggest using 
+build project using this tool. (Personally i used cmake-gui version) CMakeLists.txt is in the main directory. I suggest using 
 build directiory as the place for output files. You can run the program without using Cmake
 just by opening .sln file in main directory. Calculator only accepts integers as input.
 
