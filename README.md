@@ -7,7 +7,7 @@ left bar Conversions_Gtest - Debug - Start New Instance.
 If u have installed Cmake (min version 3.6.2) on your computer you can also
 build project using this tool. CMakeLists.txt is in the main directory. I suggest using 
 build directiory as the place for output files. You can run the program without using Cmake
-just by opening .sln file in main directory.
+just by opening .sln file in main directory. Calculator only accepts integers as input.
 
 #Uwagi do projektu (studia):
 W pliku conversions.cpp znajdują się komentarze opisujące co robią i jak powstały znajdujące się tam funkcje,
