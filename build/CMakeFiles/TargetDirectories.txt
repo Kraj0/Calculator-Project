@@ -1,3 +1,0 @@
-C:/Users/Gabriel/Desktop/C++  shiet/Visual S/Studia/Kalkulator_dla_elektronikow/build/CMakeFiles/Kalkulator_cmake.dir
-C:/Users/Gabriel/Desktop/C++  shiet/Visual S/Studia/Kalkulator_dla_elektronikow/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Gabriel/Desktop/C++  shiet/Visual S/Studia/Kalkulator_dla_elektronikow/build/CMakeFiles/ZERO_CHECK.dir
