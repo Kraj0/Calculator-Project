@@ -17,7 +17,7 @@ Została ona jednak zmodyfikowana dla danego projektu.
 Wiedzę dotyczącą użycia MFC zdobyłem używając głownie tego artykułu:
 https://learn.microsoft.com/pl-pl/cpp/mfc/reference/creating-an-mfc-application?view=msvc-170
 Sporadycznie również zadawałem pytania narzędziu ChatGpt, jednak w większości jego odpowiedzi
-były nie do końca trafne, nie działy na konkretnym przykładzie więc finalnie miał on mały wpływ na projekt.
+były nie do końca trafne, nie działały na konkretnym przykładzie więc finalnie miał on mały wpływ na projekt.
 Kompletnie nie poradził sobie z cmakelistą, mfc pisałem na podstawie dokumentacji biblioteki oraz ze strony
 microsoftu. Jedynie lekko pomógł podczas pisania kodu, gdy przeklejałem odpowiedni error i pytałem się chata
 z czego on wynika. ChatGpt napisał mi również przykładowe GoogleTesty jednak w moim odczuciu były one mało sensowne
