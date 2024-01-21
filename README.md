@@ -21,4 +21,4 @@ były nie do końca trafne, nie działały na konkretnym przykładzie więc fina
 Kompletnie nie poradził sobie z cmakelistą, mfc pisałem na podstawie dokumentacji biblioteki oraz ze strony
 microsoftu. Jedynie lekko pomógł podczas pisania kodu, gdy przeklejałem odpowiedni error i pytałem się chata
 z czego on wynika. ChatGpt napisał mi również przykładowe GoogleTesty jednak w moim odczuciu były one mało sensowne
-i mało dokładne więc przerobiłem je na własne od nowa.
+i mało dokładne więc przerobiłem je na własne od nowa.  W katalogu projektu również znajduje się dokumentacja.
