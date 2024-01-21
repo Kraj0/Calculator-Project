@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/Gabriel/Desktop/C++  shiet/Visual S/Studia/Kalkulator_dla_elektronikow/CMakeLists.txt
+  Kalkulator_dla_elektronikow.cpp
+  Kalkulator_dla_elektronikowDlg.cpp
+  conversions.cpp
+C:\Users\Gabriel\Desktop\C++  shiet\Visual S\Studia\Kalkulator_dla_elektronikow\src\conversions.cpp(28,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Gabriel\Desktop\C++  shiet\Visual S\Studia\Kalkulator_dla_elektronikow\src\conversions.cpp(120,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pch.cpp
+  Generating Code...
+  Kalkulator_cmake.vcxproj -> C:\Users\Gabriel\Desktop\C++  shiet\Visual S\Studia\Kalkulator_dla_elektronikow\build\Debug\Kalkulator_cmake.exe

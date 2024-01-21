@@ -1,0 +1,8 @@
+﻿  conver.cpp
+C:\Users\Gabriel\Desktop\C++  shiet\Visual S\Studia\Kalkulator_dla_elektronikow\Gtest\Conversions_Gtest\conver.cpp(27,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/conver.cpp')
+  
+C:\Users\Gabriel\Desktop\C++  shiet\Visual S\Studia\Kalkulator_dla_elektronikow\Gtest\Conversions_Gtest\conver.cpp(119,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/conver.cpp')
+  
+  Conversions_Gtest.vcxproj -> C:\Users\Gabriel\Desktop\C++  shiet\Visual S\Studia\Kalkulator_dla_elektronikow\x64\Debug\Conversions_Gtest.exe
